@@ -1,6 +1,7 @@
 # uplift-model-ml
 X5 Retail Group Uplift Model
 
+This is the task of predicting customers who may be influenced by the company.
 ## Description
 Test task for the Machine learning course by SHIFT
 [Kaggle Competition](https://www.kaggle.com/competitions/uplift-shift-23/overview)
