@@ -48,9 +48,9 @@ $$Z_i = \begin{cases}
 \end{cases}
 \$$
 
-- `Z_i`: целевая метрика (class transformation).
-- `W_i`: флаг коммуникации `treatment_flg`.
-- `Y_i`: реакция клиента `purchased`.
+- $Z_i$: целевая метрика (class transformation).
+- $W_i$: флаг коммуникации `treatment_flg`.
+- $Y_i$: реакция клиента `purchased`.
 
 Uplift метрика по формуле:
 $$uplift = 2 * P(Z = 1) - 1$$
